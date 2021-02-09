@@ -2,6 +2,7 @@
 layout: page
 title: Leadership
 permalink: /leadership/
+nav_order: 7
 ---
 
 # Leadership

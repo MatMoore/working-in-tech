@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About this site
 permalink: /about/
+nav_order: 100
 ---
+
+# About this site
 
 "Working in tech" is a directory of links about working in the tech industry.
 

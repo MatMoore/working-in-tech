@@ -2,6 +2,7 @@
 layout: page
 title: Career progression
 permalink: /Career/
+nav_order: 2
 ---
 
 # Career progression

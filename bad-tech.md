@@ -2,6 +2,7 @@
 layout: page
 title: Bad tech
 permalink: /bad-tech/
+nav_order: 20
 ---
 
 # Bad tech

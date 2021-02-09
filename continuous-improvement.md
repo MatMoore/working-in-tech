@@ -2,6 +2,7 @@
 layout: page
 title: Continuous improvement
 permalink: /continuous-improvement/
+nav_order: 6
 ---
 
 # Continuous improvement

@@ -2,6 +2,7 @@
 layout: page
 title: What is software engineering?
 permalink: /software-engineering/
+nav_order: 1
 ---
 
 # What is software engineering?

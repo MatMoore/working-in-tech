@@ -2,6 +2,7 @@
 layout: page
 title: Management
 permalink: /management/
+nav_order: 8
 ---
 
 # Management

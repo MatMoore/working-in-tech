@@ -2,6 +2,7 @@
 layout: page
 title: Communication and facilitation
 permalink: /communication/
+nav_order: 3
 ---
 
 # Communication and facilitation

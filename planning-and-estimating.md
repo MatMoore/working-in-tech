@@ -2,6 +2,7 @@
 layout: page
 title: Planning and estimating
 permalink: /planning/
+nav_order: 5
 ---
 
 # Planning and estimating
