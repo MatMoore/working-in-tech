@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career progression
-permalink: /Career/
+permalink: /career/
 nav_order: 2
 ---
 
