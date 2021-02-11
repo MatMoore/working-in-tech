@@ -9,6 +9,18 @@ nav_order: 4
 
 How to create excellent documentation.
 
+## [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+
+> This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents.
+
+## [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+
+Microsoft's style guide page on inclusive language.
+
+## [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+
+> Architecture for agile projects has to be described and defined differently. Not all decisions will be made at once, nor will all of them be done when the project begins.
+
 ## [6 Lessons I learned while implementing technical RFCs as a decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb)
 
 > Giving team members, present, and future, the context into why and how decisions have been made has allowed me to run happier and more effective distributed engineering organizations. Now, instead of trying to inadequately respond when I’m asked “what were these people thinking?”, I point to files that may be able to resolve all doubts and allow members of my team to wear the software historian hat.

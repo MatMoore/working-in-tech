@@ -13,6 +13,10 @@ A collection of links about how to make software engineering teams more effectiv
 
 > All of this is to say that developers have more power than they imagine to change the engineering culture around them. As you build software that others will use or that your peers will work on, are you making it easy for them to do the right thing? If you build platforms, bake in easy integrations for the software values you want to see. If you’re in the position to choose new tools, pick ones that support the standards you want taken seriously. And as you write code, make it easy for others who will copy-paste what you’ve done to then do the right thing.
 
+## [How To Lead When You Have No Authority](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4)
+
+> This article takes everything I have learned over the past 15 years on the topic of leading through influence and distills it down into four actionable principles (or pillars). I have applied these pillars for a long time and they have empowered me in so many situations.
+
 ## [DORA research program](https://www.devops-research.com/research.html)
 
 > DORA's State of DevOps research program represents six years of research and data from over 31,000 professionals worldwide. It is the longest running academically rigorous research investigation of its kind, providing an independent view into the practices and capabilities that drive high performance in technology delivery and ultimately organizational outcomes.
@@ -40,3 +44,22 @@ A collection of links about how to make software engineering teams more effectiv
 > Let’s consider the product strategy. How might leadership guide but devolve it to the whole team?
 >
 > I think about this as sort of an accessibility problem. Most senior individuals have developed mental models to sense-adapt, navigate, and use their experience to notice gaps or flaws within (mostly) verbally communicated strategies. These strategies then get translated into backlog items, often disconnected from the true value chain and decision making.
+
+## [Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+
+> The purpose of this document is to provide
+> guidance to DoD program executives and acquisition professionals on how to detect software
+> projects that are really using agile development versus those that are simply waterfall or spiral
+> development in agile clothing (“agile-scrum-fall”).
+
+## [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
+
+> New hires don’t walk into your company already knowing your culture. They walk in anxious — hoping for success and fearing failure. They look around them to figure out how they are supposed to behave. They see who’s succeeding, and they imitate what they’re doing as best they can. They figure out who’s failing, and they try to avoid being like them.
+
+## [Talking with Tech Leads](https://www.goodreads.com/book/show/23270194-talking-with-tech-leads)
+
+> A book for Tech Leads, from Tech Leads. Discover how more than 35 Tech Leads find the delicate balance between the technical and non-technical worlds.
+
+## [Software lead weekly](https://softwareleadweekly.com/)
+
+> A weekly email for busy people who care about people, culture and leadership.

@@ -29,6 +29,10 @@ Image: [xkcd 130](https://xkcd.com/130/)
 
 > Every time you decide to solve a problem with code, you are committing part of your future capacity to maintaining and operating that code. Software is never done.
 
+## [Toxic technology](https://daverog.com/series-toxic-technology/)
+
+> This series of blogposts will cover a range of topics which contribute to toxic technology – the way teams work, the strategies we use, core operational processes, and market incentives. Later in the series, I will write about how to avoid, manage and mitigate the risks of toxic technology.
+
 ## [From Counterculture to Cyberculture: The Legacy of the Whole Earth Catalog](https://www.youtube.com/watch?v=B5kQYWLtW3Y)
 
 > In the fall of 1968, Stewart Brand published a 61-page miscellany of hand tools, books, and other gear. A generation of long-hairs was heading “back to the land” and Brand aimed to give them the tools they’d need to get there. While most rural communes soon failed, the ideals and the social networks Brand and his colleagues built up around the Catalog would last a lifetime. Over the next forty years, they transformed American notions of technology and particularly, of computers. They shaped the defining notions of our digital world, including “personal” computing, virtual community, and the vision of cyberspace as an electronic frontier. They helped give rise to such influential venues as the Whole Earth ‘Lectronic Link (or WELL) and Wired magazine. And in the process, they transformed the ideals of the generation of 1968 into a deeply optimistic vision of the social potential of digital technologies.
