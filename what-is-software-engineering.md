@@ -7,22 +7,28 @@ nav_order: 1
 
 # What is software engineering?
 
-A collection of links about what software engineering actually involves and what's the difference between programming/coding/software development/software engineering or whatever?
+What's the difference between programming/development/engineering/coding/hacking? What do these people actually do...?
 
-## [Are We Really Engineers? • Hillel Wayne](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/)
+![XKCD sketch of Julia Stiles, as a 12-year-old, with a bandana over her head, long wavy hair, elbow shirt, wrist band, and pants. Caption: The best thing ever to appear on TV:
+12-year-old Julia Stiles as a hacker in a 1993 episode of PBS's "Ghostwriter".
+Julia Stiles: Do you know anything about hackers?
+Julia Stiles: Can you jam with the console cowboys in cyberspace?
+Julia Stiles: Never experienced the new wave? Next wave? Dream wave? OR cyberpunk?]({{ site.baseurl}}/julia_stiles.jpg)
 
-> I sat in front of Mat, idly chatting about tech and cuisine. Before now, I had known him mostly for his cooking pictures on Twitter, the kind that made me envious of suburbanites and their 75,000 BTU woks. But now he was the test subject for my new project, to see if it was going to be fruitful or a waste of time.
-> “What’s your job?”
-> “Right now I’m working on microservices for a social media management platform.
+Image: [xkcd 130](https://xkcd.com/130/)
 
-## [The 'Invisible' Materiality of Information Technology | June 2020 | Communi](https://cacm.acm.org/magazines/2020/6/245160-the-invisible-materiality-of-information-technology/fulltext)
+## [Are We Really Engineers?](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/)
+
+> If I wanted to know how software development compares and contrasts with “real” engineering, then I’d have to talk to “real” engineers. But thinking about that, I realized another problem: while “real” engineers could tell me what they did, they couldn’t tell me how their work differed from mine. Just as we make sweeping statements about real engineering without any evidence, they could make sweeping statements about software without knowing anything about it either. Even if they use a bit of software in the day-to-day work, that’s not the same as developing software as a job. Only a person who’s done both software development and “real” engineering can truthfully speak to the differences between them.
+
+## [What is “creative” coding, anyway?](http://blog.pamelafox.org/2020/12/what-is-creative-coding-anyway.html)
+
+> At this point, I am wary whenever I hear the term “creativity” used in the domain of computer science and computer programming. Since there are so many ways to create in this world, creativity can mean different things to different people.
 
 ## [Software is drowning the world](https://jamesabley.com/software-is-drowning-the-world/)
 
-> Intermittent cake-hole flappings of a nerd
+> Every time you decide to solve a problem with code, you are committing part of your future capacity to maintaining and operating that code. Software is never done.
 
-## [(32) From Counterculture to Cyberculture: The Legacy of the Whole Earth Cat](https://www.youtube.com/watch?v=B5kQYWLtW3Y)
+## [From Counterculture to Cyberculture: The Legacy of the Whole Earth Catalog](https://www.youtube.com/watch?v=B5kQYWLtW3Y)
 
-> Stanford University Libraries presents a Symposium celebrating the legacy of the Whole Earth Catalog featuring:Stewart Brand, founder of the Whole Earth Cata...
-
-## [What is “creative” coding, anyway?](http://blog.pamelafox.org/2020/12/what-is-creative-coding-anyway.html)
+> In the fall of 1968, Stewart Brand published a 61-page miscellany of hand tools, books, and other gear. A generation of long-hairs was heading “back to the land” and Brand aimed to give them the tools they’d need to get there. While most rural communes soon failed, the ideals and the social networks Brand and his colleagues built up around the Catalog would last a lifetime. Over the next forty years, they transformed American notions of technology and particularly, of computers. They shaped the defining notions of our digital world, including “personal” computing, virtual community, and the vision of cyberspace as an electronic frontier. They helped give rise to such influential venues as the Whole Earth ‘Lectronic Link (or WELL) and Wired magazine. And in the process, they transformed the ideals of the generation of 1968 into a deeply optimistic vision of the social potential of digital technologies.
