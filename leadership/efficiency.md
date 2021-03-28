@@ -29,3 +29,12 @@ How to maximise the output of an engineering team
 ## [High Output Management for (Non-managing) Tech Leads](https://www.g9labs.com/2020/01/04/high-output-management-for-non-managing-tech-leads/)
 
 > If you've worked in tech long enough, you'll hear praise for Andy Grove's High Output Management, oft-praised as a touchstone of technology management (Grove is often referred to as the "Father of the OKR"). A year or so ago, I got to read his book through Harrison Metal's General Management course. What can you apply from the book when you're a tech lead, and not actually a manager?
+
+## [Interview with Gene Kim](https://projecttoproduct.org/podcast/gene-kim/)
+
+> In the first half of this special two-part episode, Mik and Gene talk about:
+>
+> - Gene’s journey, and how it led to The Unicorn Project
+> - The motivation and origins behind the Five Ideals and how to put them into practice
+> - The profound wisdom of the First Ideal: Locality and Simplicity — and why leaders should use it as a test to identify whether they are progressing in the right direction
+> - The Second Ideal: Focus, Flow and Joy — why it resonates so much with Mik, and it’s impact and importance to generating outcomes

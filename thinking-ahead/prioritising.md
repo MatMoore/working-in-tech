@@ -10,9 +10,25 @@ parent: Thinking ahead
 
 How to prioritise work and create a shared understanding of what a team is working on
 
-## [Assign problems (not work) to your teams to build extraordinary products](https://leaddev.com/agile-other-ways-working/assign-problems-not-work-your-teams-build-extraordinary-products)
+## [A Crystal Ball to Prioritize Technical Debt](https://www.infoq.com/presentations/priority-technical-debt)
 
-> From my own personal experience, I am convinced that the large majority of companies building software products are wasting an enormous amount of the creative energy that lies dormant within their disempowered teams.
+> Adam Tornhill offers an overview of techniques that help uncover both problematic code and the social dimension of the teams that build software. He illustrates each point with a case study.
+
+## [Benefit-Driven Metrics: Measure the lives you save, not the life preservers you sell](https://andrewchen.co/benefit-driven-metrics-measure-the-lives-you-save-not-the-life-preservers-you-sell/)
+
+> So ultimately to start this exercise, you should throw out all the standard metrics (conversion rates, pageviews, etc.) and just focus on one thing: what are your customers measuring?
+
+## [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
+
+> While project thinking focuses on coming up with solutions up-front and then delivering against a schedule, product thinking keeps the focus on the outcome. That involves some level of comfort with uncertainty and learning, which can be pretty hard. But if we want to get to the right outcome, and not just an on-time output, it is really the only way to work.
+
+## [Seven questions to build a roadmap](http://www.jamiearnold.com/2014/07/22/seven-questions-to-build-a-roadmap/)
+
+> Techniques for building a roadmap and how the use of language can help align your pure agile or mixed methodology programmes.
+
+## [Observations on Data, Metrics & Goals](https://uxdesign.cc/observations-on-data-metrics-goals-204a02654850)
+
+> Always set a goal, even if only to force you to be thorough about the levers, relationships and tradeoffs within your product.
 
 ## [How To Build A Product Roadmap Everyone Understands](https://www.prodpad.com/blog/how-to-build-a-product-roadmap-everyone-understands/)
 
@@ -30,26 +46,10 @@ Without a roadmap, without a stated plan, we can completely change course withou
 
 > It’s a bold assumption that you know exactly what to build, especially months in advance. The best product people aren’t the ones who make assumptions about the future and drive towards them. Instead, they know to surround themselves with experts and to ask the best questions. They know that markets and constraints change and that the best way to take advantage of opportunities is to remain lean with a flexible product roadmap.
 
-## [Benefit-Driven Metrics: Measure the lives you save, not the life preservers you sell](https://andrewchen.co/benefit-driven-metrics-measure-the-lives-you-save-not-the-life-preservers-you-sell/)
-
-> So ultimately to start this exercise, you should throw out all the standard metrics (conversion rates, pageviews, etc.) and just focus on one thing: what are your customers measuring?
-
-## [Observations on Data, Metrics & Goals](https://uxdesign.cc/observations-on-data-metrics-goals-204a02654850)
-
-> Always set a goal, even if only to force you to be thorough about the levers, relationships and tradeoffs within your product.
-
 ## [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c)
 
 > Learn how to create a product roadmap, along with a detailed example. A must read for PMs in any org past the product-market-fit stage.
 
-## [Seven questions to build a roadmap](http://www.jamiearnold.com/2014/07/22/seven-questions-to-build-a-roadmap/)
-
-> Techniques for building a roadmap and how the use of language can help align your pure agile or mixed methodology programmes.
-
 ## [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 
 > Many projects fail badly because they do Big Bang delivery (build the thing until 100% done and deliver at the end). I’ve lost count of the number of failed projects I’ve seen because of this (scroll down for some examples). However, when Agile is presented as an alternative people sometimes balk at the idea of delivering an unfinished product – who wants half of a car?
-
-## [A Crystal Ball to Prioritize Technical Debt](https://www.infoq.com/presentations/priority-technical-debt)
-
-> Adam Tornhill offers an overview of techniques that help uncover both problematic code and the social dimension of the teams that build software. He illustrates each point with a case study.

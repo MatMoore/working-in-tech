@@ -9,14 +9,6 @@ nav_order: 9
 
 How to organise teams
 
-## [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
-
-> While project thinking focuses on coming up with solutions up-front and then delivering against a schedule, product thinking keeps the focus on the outcome. That involves some level of comfort with uncertainty and learning, which can be pretty hard. But if we want to get to the right outcome, and not just an on-time output, it is really the only way to work.
-
-## [Project To Product interview with Gene Kim](https://projecttoproduct.org/podcast/gene-kim/)
-
-> Introducing the first episode of Mik + One, Mik sits down with Gene Kim, best-selling author of The Phoenix Project and The Unicorn Project, as well as co-author of The DevOps Handbook.
-
 ## [DevOps Topologies](https://web.devopstopologies.com/)
 
 > So what team structure is right for DevOps to flourish? Clearly, there is no magic conformation or team topology which will suit every organisation. However, it is useful to characterise a small number of different models for team structures, some of which suit certain organisations better than others.

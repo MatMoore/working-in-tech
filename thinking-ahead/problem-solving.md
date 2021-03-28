@@ -17,3 +17,7 @@ parent: Thinking ahead
 > But there’s plenty of research that shows everyone can and should contribute to idea generation.
 >
 > Fortunately, the tree helps us do that in a structured way. Every solution should connect to an opportunity.
+
+## [Assign problems (not work) to your teams to build extraordinary products](https://leaddev.com/agile-other-ways-working/assign-problems-not-work-your-teams-build-extraordinary-products)
+
+> From my own personal experience, I am convinced that the large majority of companies building software products are wasting an enormous amount of the creative energy that lies dormant within their disempowered teams.
